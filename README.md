@@ -1,3 +1,19 @@
+## Credit goes to
+
+- [```ReactJS```](https://reactjs.org/) for frontend UI building.
+- [```Redux```](https://redux.js.org/introduction/getting-started) for state management library.
+- [```AntD```](https://ant.design/) for ReactJS-friendly UI library.
+- [```npm```](https://www.npmjs.com/) for frontend package management.
+
+- [```Spring```](https://spring.io/) for Inversion of Control.
+- [```Spring Boot```](https://spring.io/projects/spring-boot) Platform for developing stand-alone Spring application.
+- [```Spring Data JPA```](https://spring.io/projects/spring-data-jpa) for object relational mapping.
+- [```Spring Security```](https://spring.io/projects/spring-security) for user authentication and API protection.
+- [```Jwt```](https://jwt.io/) for access token provider.
+- [```MySQL```](https://www.mysql.com/) for database storage.
+- [```Maven```](http://maven.apache.org/) for backend package management.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
